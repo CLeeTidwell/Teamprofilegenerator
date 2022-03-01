@@ -43,7 +43,7 @@ const questions = async () => {
 
     
     /*  console.log(answers);
-        if manager selected, answer these specific question */
+        if manager selected, answer these specific questions */
       if (answers.role === "Manager") {
         const managerAns = await inquirer
           .prompt([
