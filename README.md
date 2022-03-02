@@ -49,7 +49,7 @@ This project is created with:
 To clone this repo, please visit the url https://github.com/CLeeTidwell/Teamprofilegenerator
 
 ## Sample images
-![screenshot](.\Assets\employeetestpass.jpg)
+![screenshot](./Assets/employeetestpass.jpg)
 
 ## Contact
 Questions? Please contact me at https://github.com/CLeeTidwell
