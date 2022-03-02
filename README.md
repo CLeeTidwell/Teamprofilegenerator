@@ -52,7 +52,7 @@ To clone this repo, please visit the url https://github.com/CLeeTidwell/Teamprof
 
 ## Sample images
 ![screenshot](./Assets/employeetestpass.jpg)
-![screenshot](./Assets/deployedgeneratedcode.jpg)
+![screenshot](./Assets/Deployedgeneratedcode.jpg)
 
 ## Contact
 Questions? Please contact me at https://github.com/CLeeTidwell
